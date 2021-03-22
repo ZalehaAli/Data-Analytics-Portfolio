@@ -5,7 +5,7 @@
 ### Capstone Project 1  
 
 [Excel Dashboard](/sample_page)
-<img src="images/capstone2_entity_diagram.jpg?raw=true"/>
+<img src="images/entity_diagram.jpg?raw=true"/>
 <br>
 This capstone is an open project, wherein participants choose their own data, brainstorm ideas and create insightful dashboards as an end result.
 ### Scope of Work
