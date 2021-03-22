@@ -5,7 +5,7 @@
 ### Capstone Project 1  
 
 [Excel Dashboard](/sample_page)
-<img src="worldhappiness.jpg?raw=true"/>
+<img src="images/worldhappiness.jpg?raw=true"/>
 <br>
 This capstone is an open project, wherein participants choose their own data, brainstorm ideas and create insightful dashboards as an end result.
 ### Scope of Work
