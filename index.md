@@ -6,6 +6,24 @@
 
 [Excel Dashboard](/sample_page)
 <img src="worldhappiness.jpg?raw=true"/>
+This capstone is an open project, wherein participants choose their own data, brainstorm ideas and create insightful dashboards as an end result.
+# Scope of Work
+The main aim of the capstone project is to exhibit the five stages of the data lifecycle through the use of the tool: MS Excel. Participants, as part of the capstone project, will have to exhibit the following:
+
+Data collection from various sources
+Business needs gathering
+Story building in relation to business needs
+Data Preparation
+ETL
+Data Cleaning
+Data Transformation
+Exploratory Data Analysis using Excel
+Creating Interactive Dashboard and Visualization using Excel Dashboards
+Communicating insights derived based on decided business needs
+Presenting to the stakeholders
+
+
+
 
 ---
 [MS SQL](/pdf/sample_presentation.pdf)
