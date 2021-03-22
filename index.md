@@ -5,7 +5,7 @@
 ### Capstone Project 1  
 
 [Excel Dashboard](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="World Happiness.jpg?raw=true"/>
 
 ---
 [MS SQL](/pdf/sample_presentation.pdf)
