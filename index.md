@@ -38,7 +38,7 @@ Presenting to the stakeholders
 
 ---
 [MS SQL](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/Capstone2 - Wish.jpg?raw=true"/>
 
 ---
 [Power BI](http://example.com/)
