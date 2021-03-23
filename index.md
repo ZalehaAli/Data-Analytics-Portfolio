@@ -64,7 +64,7 @@ The main aim of the capstone project is to
 ---
 
 [Python](http://example.com/)
-<img src="images/Capstone_Visualization.jpg?raw=true"/>
+<img src="images/Capstone4_Visualization.jpg?raw=true"/>
 <br>
 <img src="images/Capstone4_Python_Train.jpg?raw=true"/>
 <br>
