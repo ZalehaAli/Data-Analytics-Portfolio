@@ -3,7 +3,7 @@
 ---
 
 ### Capstone Project 1  
-
+<br>
 [Excel Dashboard](/sample_page)
 <img src="images/Capstone1_worldhappy.jpg?raw=true"/>
 <br>
@@ -12,6 +12,7 @@
 
 This capstone is an open project, wherein participants choose their own data, brainstorm ideas and create insightful dashboards as an end result.
 ### Scope of Work
+<br>
 The main aim of the capstone project is to exhibit the five stages of the data lifecycle through the use of the tool: MS Excel. Participants, as part of the capstone project, will have to exhibit the following:
 
 Data collection from various sources
@@ -37,8 +38,18 @@ Communicating insights derived based on decided business needs
 Presenting to the stakeholders
 
 ---
+### Capstone Project 2
+<br>
 [MS SQL](/pdf/sample_presentation.pdf)
 <img src="images/Capstone2 - Wish.jpg?raw=true"/>
+<br>
+The main aim of the capstone project 
+
+
+
+
+
+
 
 ---
 [Power BI](http://example.com/)
