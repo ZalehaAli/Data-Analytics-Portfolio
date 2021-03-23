@@ -5,7 +5,7 @@ The capstone is an open project, wherein participants choose their own data, bra
 ---
 ## Capstone Project 1
 <br>
-[Excel Dashboard](/sample_page)
+[Excel Dashboard](pdf/World Happiness.pdf)
 <img src="images/Capstone1_worldhappy.jpg?raw=true"/>
 <br>
 <img src="images/Capstone1_worldhappy2.jpg?raw=true"/>
