@@ -7,6 +7,7 @@
 [Excel Dashboard](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 <br>
+
 This capstone is an open project, wherein participants choose their own data, brainstorm ideas and create insightful dashboards as an end result.
 ### Scope of Work
 The main aim of the capstone project is to exhibit the five stages of the data lifecycle through the use of the tool: MS Excel. Participants, as part of the capstone project, will have to exhibit the following:
