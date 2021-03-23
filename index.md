@@ -59,7 +59,7 @@ The main aim of the capstone project is to
 <br>
 <img src="images/Capstone3_PowerBI_Forbes_Fortune.jpg?raw=true"/>
 <br>
-<img src="images/Capstone3_PowerBI_MarketCap.jpg?raw=true"/>
+<img src="images/Capstone3_PowerBI_Market Cap.jpg?raw=true"/>
 <br>
 ---
 
