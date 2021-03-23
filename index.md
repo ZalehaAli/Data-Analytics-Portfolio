@@ -64,12 +64,15 @@ The main aim of the capstone project is to
 ---
 
 [Python](http://example.com/)
-<img src="images/Capstone4_Visualization.jpg?raw=true"/>
-<br>
-<img src="images/Capstone4_Python_Train.jpg?raw=true"/>
 <br>
 <img src="images/Capstone4_Python_EDA.jpg?raw=true"/>
 <br>
+<img src="images/Capstone4_Python_Train.jpg?raw=true"/>
+<br>
+<img src="images/Capstone4_Visualization.jpg?raw=true"/>
+<br>
+
+
 ----
 
 ### Category Name 2
