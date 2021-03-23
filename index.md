@@ -1,8 +1,8 @@
-## Projects
+# Projects
 
 ---
 
-### Capstone Project 1  
+## Capstone Project 1  
 <br>
 [Excel Dashboard](/sample_page)
 <img src="images/Capstone1_worldhappy.jpg?raw=true"/>
@@ -37,12 +37,12 @@ Communicating insights derived based on decided business needs
 Presenting to the stakeholders
 
 ---
-### Capstone Project 2
+## Capstone Project 2
 <br>
 [MS SQL](/pdf/sample_presentation.pdf)
 <img src="images/Capstone2 - Wish.jpg?raw=true"/>
 <br>
-## SQL command
+### SQL command
 <img src="images/Capstone2 - SQL_1.jpg?raw=true"/>
 <br>
 The main aim of the capstone project is to
