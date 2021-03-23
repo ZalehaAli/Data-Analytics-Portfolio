@@ -43,6 +43,7 @@ Presenting to the stakeholders
 [MS SQL](/pdf/sample_presentation.pdf)
 <img src="images/Capstone2 - Wish.jpg?raw=true"/>
 <br>
+<img src="images/Capstone2 - SQL_1.jpg?raw=true"/>
 The main aim of the capstone project 
 
 
