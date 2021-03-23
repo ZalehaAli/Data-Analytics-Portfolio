@@ -1,4 +1,6 @@
 # Projects
+<br>
+The capstone is an open project, wherein participants choose their own data, brainstorm ideas and create insightful dashboards/sldes as an end result
 
 ---
 
@@ -9,7 +11,6 @@
 <br>
 <img src="images/Capstone1_worldhappy2.jpg?raw=true"/>
 <br>
-This capstone is an open project, wherein participants choose their own data, brainstorm ideas and create insightful dashboards as an end result.
 ### Scope of Work
 <br>
 The main aim of the capstone project is to exhibit the five stages of the data lifecycle through the use of the tool: MS Excel. Participants, as part of the capstone project, will have to exhibit the following:
