@@ -7,6 +7,8 @@
 [Excel Dashboard](/sample_page)
 <img src="images/Capstone1_worldhappy.jpg?raw=true"/>
 <br>
+<img src="images/Capstone1_worldhappy2.jpg?raw=true"/>
+<br>
 
 This capstone is an open project, wherein participants choose their own data, brainstorm ideas and create insightful dashboards as an end result.
 ### Scope of Work
