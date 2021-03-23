@@ -55,8 +55,12 @@ The main aim of the capstone project is to
 
 ---
 [Power BI](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
+<img src="images/Capstone3_PowerBI_Forbes.jpg?raw=true"/>
+<br>
+<img src="images/Capstone3_PowerBI_Forbes_Fortune.jpg?raw=true"/>
+<br>
+<img src="images/Capstone3_PowerBI_MarketCap.jpg?raw=true"/>
+<br>
 ---
 
 [Python](http://example.com/)
