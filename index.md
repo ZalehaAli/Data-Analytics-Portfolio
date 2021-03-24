@@ -31,7 +31,8 @@ The main aim of the capstone project is to exhibit the five stages of the data l
 * Presenting to the stakeholders
 <br>
 <p><em>Technologies and Applications used: MS Excel 365</em><br>
-  <em>Data source: <a href="https://data.worldbank.org/indicator/EN.ATM.CO2E.PC" target="_blank">World Bank</a>, <a href="https://www.bp.com/content/dam/bp/business-sites/en/global/corporate/pdfs/energy-economics/statistical-review/bp-stats-review-2019-full-report.pdf" target="_blank">BP</a></em>
+  <em>Data source: <a href="https:kaggle.com/unsdsn/world-happiness/indicator/EN.ATM.CO2E.PC" target="_blank">Kaggle</a></em>
+</p>
 </p>
 
 ---
