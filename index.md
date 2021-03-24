@@ -33,7 +33,6 @@ The main aim of the capstone project is to exhibit the five stages of the data l
 <p><em>Technologies and Applications used: MS Excel 365</em><br>
   <em>Data source: <a href="https:kaggle.com/unsdsn/world-happiness/indicator/EN.ATM.CO2E.PC" target="_blank">Kaggle</a></em>
 </p>
-</p>
 
 ---
 ## Capstone Project 2
