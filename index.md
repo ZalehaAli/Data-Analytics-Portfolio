@@ -1,10 +1,8 @@
 # Projects
-<br>
 The capstone is an open project, wherein participants choose their own data, brainstorm ideas and create insightful dashboards/sldes as an end result
 
 ---
 ## Capstone Project 1
-<br>
 [Excel Dashboard](/pdf/World Happiness.pdf)
 <img src="images/Capstone1_worldhappy.jpg?raw=true"/>
 ### Scope of Work -
