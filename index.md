@@ -3,7 +3,7 @@ The capstone is an open project, wherein participants choose their own data, bra
 
 ---
 ## Capstone Project 1
-[Excel Dashboard](/pdf/World Happiness.pdf)
+[Excel Dashboard](/pdf/World Happiness.pdf) target="_blank">Kaggle</a></em>
 <img src="images/Capstone1_worldhappy.jpg?raw=true"/>
 ### Scope of Work -
 The main aim of the capstone project is to exhibit the five stages of the data lifecycle through the use of the tool: MS Excel. Participants, as part of the capstone project, will have to exhibit the following:
