@@ -8,27 +8,27 @@ The capstone is an open project, wherein participants choose their own data, bra
 ### Scope of Work -
 The main aim of the capstone project is to exhibit the five stages of the data lifecycle through the use of the tool: MS Excel. Participants, as part of the capstone project, will have to exhibit the following:
 <br>
-Data collection from various sources
+* Data collection from various sources
 <br>
-Business needs gathering
+* Business needs gathering
 <br>
-Story building in relation to business needs
+* Story building in relation to business needs
 <br>
-Data Preparation
+* Data Preparation
 <br>
-ETL
+* ETL
 <br>
-Data Cleaning
+* Data Cleaning
 <br>
-Data Transformation
+* Data Transformation
 <br>
-Exploratory Data Analysis using Excel
+* Exploratory Data Analysis using Excel
 <br>
-Creating Interactive Dashboard and Visualization using Excel Dashboards
+* Creating Interactive Dashboard and Visualization using Excel Dashboards
 <br>
-Communicating insights derived based on decided business needs
+* Communicating insights derived based on decided business needs
 <br>
-Presenting to the stakeholders
+* Presenting to the stakeholders
 
 ---
 ## Capstone Project 2
