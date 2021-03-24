@@ -39,7 +39,7 @@ The main aim of the capstone project is to exhibit the five stages of the data l
 <iframe src="https://onedrive.live.com/embed?cid=17723187F2149456&amp;resid=17723187F2149456%213033&amp;authkey=AHpj1UQSiLHrJJY&amp;em=2&amp;wdAr=1.7777777777777777" width="100%" height="400px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>
 <br>
 [MS SQL](/pdf/sample_presentation.pdf)
-<img src="images/Capstone2 - Wish.jpg?raw=true"/>
+<!-- <img src="images/Capstone2 - Wish.jpg?raw=true"/> -->
 ### Scope of Work -
 The main aim of the capstone project is to exhibit the five stages of the data lifecycle through the use of two tools: SQL and MS Excel. Participants, as part of the capstone project, will have to exhibit the following:
 <br>
