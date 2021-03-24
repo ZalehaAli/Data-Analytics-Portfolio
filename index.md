@@ -71,11 +71,8 @@ The main aim of the capstone project is to exhibit the five stages of the data l
 <!--[Power BI](http://example.com/)-->
 <a href="pdf/Capstone_3_Forbes_Fortune.pdf" target="_blank">Power BI Dashboard</a>
 <img src="images/Capstone3_PowerBI_Forbes.jpg?raw=true"/>
-<br>
-<img src="images/Capstone3_PowerBI_Forbes_Fortune.jpg?raw=true"/>
-<br>
-<img src="images/Capstone3_PowerBI_Market_Cap.jpg?raw=true"/>
-<br>
+
+
 ---
 
 [Python](http://example.com/)
