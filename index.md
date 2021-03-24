@@ -48,11 +48,11 @@ The main aim of the capstone project is to exhibit the five stages of the data l
 <br>
 * Data Preparation
 <br>
-** Data Cleaning
-<br>
-** Data Transformation
-<br>
-* Data Analysis using SQL
+ Data Cleaning
+<p>
+Data Transformation
+<p>
+Data Analysis using SQL
 <br>
 * Creating Interactive Dashboard and Visualization using Excel Dashboards
 <br>
