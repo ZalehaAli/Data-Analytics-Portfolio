@@ -39,11 +39,26 @@ The main aim of the capstone project is to exhibit the five stages of the data l
 <br>
 [MS SQL](/pdf/sample_presentation.pdf)
 <img src="images/Capstone2 - Wish.jpg?raw=true"/>
+### Scope of Work -
+The main aim of the capstone project is to exhibit the five stages of the data lifecycle through the use of two tools: SQL and MS Excel. Participants, as part of the capstone project, will have to exhibit the following:
 <br>
-### SQL command
-<img src="images/Capstone2 - SQL_1.jpg?raw=true"/>
+* Data collection from various sources
 <br>
-The main aim of the capstone project is to
+* Creating tables and Loading data into SQL databases
+<br>
+* Data Preparation
+<br>
+** Data Cleaning
+<br>
+** Data Transformation
+<br>
+* Data Analysis using SQL
+<br>
+* Creating Interactive Dashboard and Visualization using Excel Dashboards
+<br>
+* Communicating insights derived
+<br>
+* Presenting to the stakeholders
 
 
 
