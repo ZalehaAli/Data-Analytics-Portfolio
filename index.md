@@ -6,7 +6,7 @@ The capstone is an open project, wherein participants choose their own data, bra
 Creating Interactive Dashboard and Data Storytelling with Excel
 <br>
 <img src="images/Capstone1_worldhappy.jpg?raw=true"/>
-<p>
+<br>
 <a href="pdf/World Happiness.pdf" target="_blank">View Excel Dashboard</a>
 
 ### Scope of Work -
