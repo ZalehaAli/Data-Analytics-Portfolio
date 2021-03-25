@@ -72,6 +72,7 @@ The main aim of the capstone project is to exhibit the five stages of the data l
 
 ---
 ## Capstone Project 3
+Creating Interactive Dashboard and Data Storytelling with Power BI
 <!--[Power BI](http://example.com/)-->
 <img src="images/Capstone3_PowerBI_Forbes.jpg?raw=true"/>
 <a href="pdf/Capstone_3_Forbes_Fortune.pdf" target="_blank">View Power BI Dashboard</a>
