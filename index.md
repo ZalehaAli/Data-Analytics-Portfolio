@@ -3,8 +3,6 @@ The capstone is an open project, wherein participants choose their own data, bra
 
 ---
 ## Capstone Project 1
-<p>I will display &#128072;</p>
-
 <p><a href="pdf/World Happiness.pdf" target="_blank">Excel Dashboard</a> &#128072;</p>
 <img src="images/Capstone1_worldhappy.jpg?raw=true"/>
 ### Scope of Work -
