@@ -79,6 +79,7 @@ Creating Interactive Dashboard and Data Storytelling with Power BI
 <!--[Power BI](http://example.com/)-->
 <img src="images/Capstone3_PowerBI_Forbes.jpg?raw=true"/>
 <a href="pdf/Capstone_3_Forbes_Fortune.pdf" target="_blank">View Power BI Dashboard</a>
+<br>
 <a href="pdf/SQL Program.pdf" target="_blank">View Screenshot of SQL Program</a>
 
 ### Scope of Work -
