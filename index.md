@@ -3,7 +3,6 @@ The capstone is an open project, wherein participants choose their own data, bra
 
 ---
 ## Capstone Project 1
-<br>
 (Creating Interactive Dashboard and Data Storytelling with Excel)
 <br>
 <a href="pdf/World Happiness.pdf" target="_blank">Excel Dashboard</a> <span style='font-size:20px;'>&#128072;</span>
