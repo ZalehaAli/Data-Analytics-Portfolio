@@ -82,8 +82,6 @@ Creating Interactive Dashboard and Data Storytelling with Power BI
 <img src="images/Capstone3_PowerBI_Forbes.jpg?raw=true"/>
 <a href="pdf/Capstone_3_Forbes_Fortune.pdf" target="_blank">View Power BI Dashboard</a>
 
-
-
 ### Scope of Work -
 The main aim of the capstone project is to exhibit the five stages of the data lifecycle using PowerBI on the dataset provided. Participants, as part of the capstone project, will have to exhibit the following:
 <br>
@@ -115,6 +113,29 @@ The main aim of the capstone project is to exhibit the five stages of the data l
 <iframe src="https://onedrive.live.com/embed?cid=17723187F2149456&amp;resid=17723187F2149456%213036&amp;authkey=ADMxYP8ZFD_T6EQ&amp;em=2&amp;wdAr=1.7777777777777777" width="100%" height="400px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>
 <br>
 <a href="pdf/Stock Price_Master.pdf" target="_blank">View Python Program</a>
+### Scope of Work -
+The main aim of the capstone project is to exhibit the five stages of the data lifecycle through the use of various machine learning algorithms: Linear Regression, Logistic Regression, SVM, K-means, Random Forest and any other machine learning models learnt during the course. Participants, as part of the capstone project, will have to exhibit the following:
+<br>
+* Data collection from various sources
+<br>
+* Exploratory Data Analysis
+<br>
+* Data Preparation
+<br>
+-- Feature Engineering
+<br>
+-- Data Cleaning
+<br>
+-- Data Transformation
+<br>
+* Data Analysis using visualizations
+<br>
+* Creating Machine learning models and evaluating performance
+<br>
+* Communicating insights derived
+<br>
+* Presenting to the stakeholders
+
 <!--[Python](http://example.com/)-->
 <!--<img src="images/Capstone4_Python_EDA.jpg?raw=true"/>-->
 
