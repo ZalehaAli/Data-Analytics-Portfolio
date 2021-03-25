@@ -11,7 +11,7 @@ Creating Interactive Dashboard and Data Storytelling with Excel
 <a href="pdf/World Happiness.pdf" target="_blank">View Excel Dashboard</a>
 
 ### Scope of Work -
-The main aim of the capstone project is to exhibit the five stages of the data lifecycle through the use of the tool: MS Excel. Participants, as part of the capstone project, will have to exhibit the following:
+The main aim of the Capstone Project 1 is to exhibit the five stages of the data lifecycle through the use of the tool: MS Excel. Participants, as part of the capstone project, will have to exhibit the following:
 <br>
 * Data collection from various sources
 <br>
@@ -49,7 +49,7 @@ Analyzing data using SQL and import data to Excel to create Interactive Dashboar
 <!--[MS SQL](/pdf/sample_presentation.pdf)-->
 <!-- <img src="images/Capstone2 - Wish.jpg?raw=true"/> -->
 ### Scope of Work -
-The main aim of the capstone project is to exhibit the five stages of the data lifecycle through the use of two tools: SQL and MS Excel. Participants, as part of the capstone project, will have to exhibit the following:
+The main aim of the Capstone Project 2 is to exhibit the five stages of the data lifecycle through the use of two tools: SQL and MS Excel. Participants, as part of the capstone project, will have to exhibit the following:
 <br>
 * Data collection from various sources
 <br>
@@ -83,7 +83,7 @@ Creating Interactive Dashboard and Data Storytelling with Power BI
 <a href="pdf/Capstone_3_Forbes_Fortune.pdf" target="_blank">View Power BI Dashboard</a>
 
 ### Scope of Work -
-The main aim of the capstone project is to exhibit the five stages of the data lifecycle using PowerBI on the dataset provided. Participants, as part of the capstone project, will have to exhibit the following:
+The main aim of the Capstone Project 3 is to exhibit the five stages of the data lifecycle using PowerBI on the dataset provided. Participants, as part of the capstone project, will have to exhibit the following:
 <br>
 * Importing the Data
 <br>
@@ -114,7 +114,7 @@ The main aim of the capstone project is to exhibit the five stages of the data l
 <br>
 <a href="pdf/Stock Price_Master.pdf" target="_blank">View Python Program</a>
 ### Scope of Work -
-The main aim of the capstone project is to exhibit the five stages of the data lifecycle through the use of various machine learning algorithms: Linear Regression, Logistic Regression, SVM, K-means, Random Forest and any other machine learning models learnt during the course. Participants, as part of the capstone project, will have to exhibit the following:
+The main aim of the Capstone Project 4 is to exhibit the five stages of the data lifecycle through the use of various machine learning algorithms: Linear Regression, Logistic Regression, SVM, K-means, Random Forest and any other machine learning models learnt during the course. Participants, as part of the capstone project, will have to exhibit the following:
 <br>
 * Data collection from various sources
 <br>
