@@ -148,9 +148,29 @@ The main aim of the Capstone Project 4 is to exhibit the five stages of the data
 
 ----
 
-### Category Name 2
+### Other Projects
 
-- [Project 1 Title](http://example.com/)
+- [Power Bi Hackathon](http://example.com/)
+A randon team was created where an assignment was given to be completed by the end of the day (ie. 4pm). Following is the case given to all Teams -
+<br>
+Financial institutions/companies have been using analytics for quite a long time.
+Off late, due to the availability of computational resources and tremendous research in analytics field,
+it is possible to perform cutting edge data analysis resulting in making business strategies and improving decision making.
+<br>
+Below are a few suggested perspectives:
+<br>
+- Purpose of loan
+<br>
+- Outstanding Amount
+<br>
+- State wise loan applications
+<br>
+- Loan application trend
+<br>
+- Loan Status Distribution
+<br>
+
+
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
