@@ -150,8 +150,9 @@ The main aim of the Capstone Project 4 is to exhibit the five stages of the data
 
 ### Other Projects
 
-- [Power Bi Hackathon](http://example.com/)
+[Power Bi Hackathon](http://example.com/)
 A randon team was created where an assignment was given to be completed by the end of the day (ie. 4pm). Following is the case given to all Teams -
+<br>
 <br>
 Financial institutions/companies have been using analytics for quite a long time.
 Off late, due to the availability of computational resources and tremendous research in analytics field,
