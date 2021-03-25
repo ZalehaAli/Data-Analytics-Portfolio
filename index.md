@@ -106,7 +106,7 @@ The main aim of the capstone project is to exhibit the five stages of the data l
 * Narrating Story to the Stakeholders
 
 <p><em>Technologies and Applications used: Power BI</em><br>
-  <em>Data source: <a href="https://fortune.com/global500/" target="_blank">Fortune Global 500</a>, <a href="https://https://www.forbes.com/global2000/#38188663335d" target="_blank">Forbes Global 2000</a>,<a href="https://www.dogsofthedow.com/most-active-stocks-today.htm" target="_blank">Dog of the Dow</a></em>
+  <em>Data source: <a href="https://fortune.com/global500/" target="_blank">Fortune Global 500</a>, <a href="https://https://www.forbes.com/global2000/#38188663335d" target="_blank">Forbes Global 2000</a>,<a href="https://www.dogsofthedow.com/most-active-stocks-today.htm" target="_blank">Dogs of the Dow</a></em>
 </p>
 
   
