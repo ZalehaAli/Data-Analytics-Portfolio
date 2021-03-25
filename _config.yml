@@ -1,11 +1,11 @@
 title: Associate Data Analyst Portfolio by Zaleha Ali # your name (or website title) here
 logo: "/images/mypic.jpg?raw=true" # your photo (or logo) here
-description: This is a Github project page dedicated to me becoming Assoc Data Analyst Programmer. 
+description: This is a Github project page dedicated to me becoming Assoc Data Analyst Programmer.I can be contacted at zaleha.ali3@gmail.com 
   <br><br>
   In this page, I will be featuring the Capstone projects that I have embarked using <strong> Excel Dashboard</strong>, <strong>MS SQL</strong>, <strong> PowerBI</strong> and <strong>Python</strong>
   <p>
   <a href="https://linkedin.com/in/zaleha-ali/"target="_blank">View My LinkedIn Profile</a> </p>
   <br>
-  - My contact : zaleha.ali3@gmail.com
+  
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
