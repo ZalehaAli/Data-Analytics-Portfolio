@@ -110,6 +110,7 @@ The main aim of the Capstone Project 3 is to exhibit the five stages of the data
   
 ---
 ## Capstone Project 4
+Advanced Analytics and Build a Machine Learning Model with Python
 <iframe src="https://onedrive.live.com/embed?cid=17723187F2149456&amp;resid=17723187F2149456%213036&amp;authkey=ADMxYP8ZFD_T6EQ&amp;em=2&amp;wdAr=1.7777777777777777" width="100%" height="400px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>
 <br>
 <a href="pdf/Stock Price_Master.pdf" target="_blank">View Python Program</a>
