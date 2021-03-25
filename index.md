@@ -137,8 +137,7 @@ The main aim of the Capstone Project 4 is to exhibit the five stages of the data
 * Presenting to the stakeholders
 
 <p><em>Technologies and Applications used: Jupyter Notebook, Anaconda, Numpy Python 3.8, MS Powerpoint</em><br>
-  <em>Data source: <a href="https://archive.ics.uci.edu/ml/datasets/Bank+Marketing
-" target="_blank">Data.gov.sg</a></em>
+  <em>Data source: <a href="https://sg.finance.yahoo.com/topic/stocks/" target="_blank">Yahoo Finance</a></em>
 </p>
 
 
