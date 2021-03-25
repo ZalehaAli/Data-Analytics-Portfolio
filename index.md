@@ -74,6 +74,7 @@ The main aim of the capstone project is to exhibit the five stages of the data l
 <img src="images/Capstone3_PowerBI_Forbes.jpg?raw=true"/>
 ### Scope of Work -
 
+
 ---
 ## Capstone Project 4
 <iframe src="https://onedrive.live.com/embed?cid=17723187F2149456&amp;resid=17723187F2149456%213036&amp;authkey=ADMxYP8ZFD_T6EQ&amp;em=2&amp;wdAr=1.7777777777777777" width="100%" height="400px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>
