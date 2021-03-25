@@ -79,9 +79,30 @@ Creating Interactive Dashboard and Data Storytelling with Power BI
 <!--[Power BI](http://example.com/)-->
 <img src="images/Capstone3_PowerBI_Forbes.jpg?raw=true"/>
 <a href="pdf/Capstone_3_Forbes_Fortune.pdf" target="_blank">View Power BI Dashboard</a>
-
 ### Scope of Work -
+The main aim of the capstone project is to exhibit the five stages of the data lifecycle using PowerBI on the dataset provided. Participants, as part of the capstone project, will have to exhibit the following:
+<br>
+* Importing the Data
+<br>
+* Structuring the Data Tables
+<br>
+* Data Preparation
+<br>
+-- Data Cleaning
+<br>
+-- Data Transformation
+<br>
+* Visualizing and Formatting the Data
+<br>
+* Creating Interactive Dashboard in PowerBI
+<br>
+* Communicating insights derived
+<br>
+* Narrating Story to the Stakeholders
 
+<p><em>Technologies and Applications used: Power BI</em><br>
+  <em>Data source: <a href="https://kaggle.com/jmmvutu/summer-products-and-sales-in-ecommerce-wish" target="_blank">Kaggle</a></em>
+</p>
 
 ---
 ## Capstone Project 4
