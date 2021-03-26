@@ -158,6 +158,7 @@ Working as a team with limited time to analyze and present results to stakeholde
 <br>
 <a href="pdf/Hackathon.pdf" target="_blank">View Hackathon PowerBI Dashboard</a>
 <br>
+<a href="pdf/Data.pdf" target="_blank">View Screenshot of Loan Dataset</a>
 ### Scope of Work -
 Teams were created randomly and assignment given to all teams to be completed by the end of the day (ie. 4pm).Teams are to present their cases in PowerBI Dashboard within 10 mins. Following is the case given to all Teams -
 <br>
