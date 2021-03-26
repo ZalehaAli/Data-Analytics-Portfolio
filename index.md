@@ -153,6 +153,7 @@ The main aim of the Capstone Project 4 is to exhibit the five stages of the data
 <!--[Power Bi Hackathon](http://example.com/)-->
 Working as a team with limited time to analyze and present results to stakeholders
 <br>
+<br>
 <img src="images/Hackathon.jpg?raw=true"/>
 <br>
 <a href="pdf/Hackathon.pdf" target="_blank">View Hackathon PowerBI Dashboard</a>
