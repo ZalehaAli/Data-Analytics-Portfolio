@@ -158,6 +158,7 @@ Working as a team with limited time to analyze and present results to stakeholde
 <br>
 <a href="pdf/Hackathon.pdf" target="_blank">View Hackathon PowerBI Dashboard</a>
 <br>
+<br>
 <a href="pdf/Data.pdf" target="_blank">View Screenshot of Loan Dataset</a>
 ### Scope of Work -
 Teams were created randomly and assignment given to all teams to be completed by the end of the day (ie. 4pm).Teams are to present their cases in PowerBI Dashboard within 10 mins. Following is the case given to all Teams -
@@ -179,7 +180,10 @@ Below are a few suggested perspectives:
 <br>
 - Loan Status Distribution
 <br>
-Data source: <a href="https://drive.google.com/drive/folders/1bzq8TtP7PDheGpOq79IAqLxgxx4BULoC?usp=sharing" target="_blank">Financial Dataset</a>
+<p><em>Technologies and Applications used: Power BI</em><br>
+  <em>Data source: Provided by Organizer</em>
+</p>
+
 
 
 - [Project 2 Title](http://example.com/)
