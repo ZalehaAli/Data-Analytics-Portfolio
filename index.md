@@ -150,8 +150,8 @@ The main aim of the Capstone Project 4 is to exhibit the five stages of the data
 ----
 
 # Other Projects
-
-[Power Bi Hackathon](http://example.com/)
+<a href="pdf/Hacktahon.pdf" target="_blank">View Hackathon PowerBI Dashboard</a>
+<!--[Power Bi Hackathon](http://example.com/)-->
 <br>
 Teams were created randomly and assignment given to all teams to be completed by the end of the day (ie. 4pm).Teams are to present their cases in PowerBI Dashboard within 10 mins. Following is the case given to all Teams -
 <br>
