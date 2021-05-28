@@ -149,6 +149,39 @@ The main aim of the Capstone Project 4 is to exhibit the five stages of the data
 
 
 ----
+## Capstone Project 4
+Advanced Analytics and Build a Machine Learning Model with Python
+<iframe src="https://onedrive.live.com/embed?cid=17723187F2149456&amp;resid=17723187F2149456%213036&amp;authkey=ADMxYP8ZFD_T6EQ&amp;em=2&amp;wdAr=1.7777777777777777" width="100%" height="400px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>
+<br>
+<a href="pdf/Stock Price_Master.pdf" target="_blank">View Python Program</a>
+### Scope of Work -
+The main aim of the Capstone Project 4 is to exhibit the five stages of the data lifecycle through the use of various machine learning algorithms: Linear Regression, Logistic Regression, SVM, K-means, Random Forest and any other machine learning models learnt during the course. Participants, as part of the capstone project, will have to exhibit the following:
+<br>
+* Data collection from various sources
+<br>
+* Exploratory Data Analysis
+<br>
+* Data Preparation
+<br>
+-- Feature Engineering
+<br>
+-- Data Cleaning
+<br>
+-- Data Transformation
+<br>
+* Data Analysis using visualizations
+<br>
+* Creating Machine learning models and evaluating performance
+<br>
+* Communicating insights derived
+<br>
+* Presenting to the stakeholders
+
+<p><em>Technologies and Applications used: Jupyter Notebook, Anaconda, Numpy Python 3.8, MS Powerpoint</em><br>
+  <em>Data source: <a href="https://sg.finance.yahoo.com/topic/stocks/" target="_blank">Yahoo Finance</a></em>
+</p>
+
+---
 
 # Other Projects
 <!--[Power Bi Hackathon](http://example.com/)-->
@@ -191,9 +224,6 @@ Below are a few suggested perspectives:
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
-
----
-
 
 
 
