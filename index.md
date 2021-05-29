@@ -34,7 +34,6 @@ The main aim of the Capstone Project 4 is to exhibit the five stages of the data
   <em>Data source: <a href="https://sg.finance.yahoo.com/topic/stocks/" target="_blank">Yahoo Finance</a></em>
 <p>
 
----
 
 ## Capstone Project 4
 Advanced Analytics and Build a Machine Learning Model with Python
