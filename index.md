@@ -8,9 +8,11 @@ Advanced Analytics and Build a Machine Learning Model with Python
 <br>
 <a href="pdf/Stock Price_Master.pdf" target="_blank">View Python Program</a>
 ### Scope of Work -
-The main aim of the Capstone Project 4 is to exhibit the five stages of the data lifecycle through the use of various machine learning algorithms: Linear Regression, Logistic Regression, SVM, K-means, Random Forest and any other machine learning models learnt during the course. Participants, as part of the capstone project, will have to exhibit the following:
+The main aim of the Summative Project is to enable students to apply and integrate what they have learnt and give them an opportunity to delve in greater depth, into one or more of the topics covered in the course:
 <br>
 * Data collection from various sources
+<br>
+* Create Schema in SQL and interface to Python
 <br>
 * Exploratory Data Analysis
 <br>
@@ -25,6 +27,12 @@ The main aim of the Capstone Project 4 is to exhibit the five stages of the data
 * Data Analysis using visualizations
 <br>
 * Creating Machine learning models and evaluating performance
+<br>
+* Interface relevant audit information in a database table and interface to SQL
+<br>
+* Write inputs and corresponding predicted output to database table and interface to SQL
+<br>
+Showcase all audit info and Predictions captured in SQL in Power BI
 <br>
 * Communicating insights derived
 <br>
