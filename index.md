@@ -3,7 +3,7 @@ The Capstone is an open project, wherein participants choose their own data, bra
 
 ---
 ## Summative Project
-Advanced Analytics and Build a Machine Learning Model with Python
+Advanced Analytics and Build a Machine Learning Model with Python, SQL and Power BI
 <iframe src="https://onedrive.live.com/embed?cid=17723187F2149456&resid=17723187F2149456%213043&authkey=AGtXFgaIbSwG1pY&em=2" width="100%" height="400px" frameborder="0" scrolling="no">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>
 <br>
 <a href="pdf/Stock Price_Master.pdf" target="_blank">View Python Program</a>
