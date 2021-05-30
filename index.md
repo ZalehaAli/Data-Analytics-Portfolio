@@ -32,7 +32,7 @@ The main aim of the Summative Project is to enable students to apply and integra
 <br>
 * Write inputs and corresponding predicted output to database table and interface to SQL
 <br>
-Showcase all audit info and Predictions captured in SQL in Power BI
+* Showcase all audit info and Predictions captured in SQL in Power BI
 <br>
 * Communicating insights derived
 <br>
