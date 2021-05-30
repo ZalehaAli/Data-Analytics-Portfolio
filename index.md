@@ -144,7 +144,7 @@ The main aim of the Capstone Project 2 is to exhibit the five stages of the data
 * Presenting to the stakeholders
 
 <p><em>Technologies and Applications used: MS Excel 365, Power Query, MS SQL Server Management Studio 18, MS Powerpoint</em><br>
-  <em>Data source: <a href="https://kaggle.com/jmmvutu/summer-products-and-sales-in-ecommerce-wish" target="_blank">Kaggle</a></em>
+  <em>Data source: <a href="https://kaggle.com/jmmvutu/summer-products-and-sales-in-ecommerce-wish" target="_blank">Kaggle - Sales of summer clothes - Wish</a></em>
 </p>
 
 ---
