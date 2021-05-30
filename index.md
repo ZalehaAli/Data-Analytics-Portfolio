@@ -40,7 +40,7 @@ The main aim of the Summative Project is to enable students to apply and integra
 <br>
 * Presenting to the stakeholders
 
-<p><em>Technologies and Applications used: Jupyter Notebook, Anaconda, Numpy Python 3.8, MS Powerpoint</em><br>
+<p><em>Technologies and Applications used: Jupyter Notebook, Anaconda, Numpy Python 3.8, MS Powerpoint, MS SQL Server Management Studio 18,Power BI, PowerPoint </em><br>
   <em>Data source: <a href="https://sg.finance.yahoo.com/topic/stocks/" target="_blank">Yahoo Finance</a></em>
 </p>
 
@@ -73,7 +73,7 @@ The main aim of the Capstone Project 4 is to exhibit the five stages of the data
 <br>
 * Presenting to the stakeholders
 
-<p><em>Technologies and Applications used: Jupyter Notebook, Anaconda, Numpy Python 3.8, MS Powerpoint</em><br>
+<p><em>Technologies and Applications used: Jupyter Notebook, Anaconda, Numpy Python 3.8, MS Powerpoint, </em><br>
   <em>Data source: <a href="https://sg.finance.yahoo.com/topic/stocks/" target="_blank">Yahoo Finance</a></em>
 </p>
 
@@ -143,7 +143,7 @@ The main aim of the Capstone Project 2 is to exhibit the five stages of the data
 <br>
 * Presenting to the stakeholders
 
-<p><em>Technologies and Applications used: MS Excel 365, Power Query, MS SQL Server, MS SQL Server Management Studio 18, MS Powerpoint</em><br>
+<p><em>Technologies and Applications used: MS Excel 365, Power Query, MS SQL Server Management Studio 18, MS Powerpoint</em><br>
   <em>Data source: <a href="https://kaggle.com/jmmvutu/summer-products-and-sales-in-ecommerce-wish" target="_blank">Kaggle</a></em>
 </p>
 
