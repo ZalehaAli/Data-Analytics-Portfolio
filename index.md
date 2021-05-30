@@ -10,7 +10,7 @@ Advanced Analytics and Build a Machine Learning Model with Python, SQL and Power
 <br>
 <a href="pdf/Python-Used_Car.pdf" target="_blank">View Python Program</a>
 ### Scope of Work -
-The main aim of the Summative Project is to enable students to apply and integrate what they have learnt and give them an opportunity to delve in greater depth, into one or more of the topics covered in the course:
+The main aim of the Summative Project is to enable students to apply and integrate what they have learnt and give them an opportunity to delve in greater depth, into one or more of the topics covered in the course. Participants, as part of the capstone project, will have to exhibit the following:
 <br>
 * Data collection from various sources
 <br>
