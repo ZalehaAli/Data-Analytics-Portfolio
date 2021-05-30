@@ -41,7 +41,7 @@ The main aim of the Summative Project is to enable students to apply and integra
 * Presenting to the stakeholders
 
 <p><em>Technologies and Applications used: Jupyter Notebook, Anaconda, Numpy Python 3.8, MS SQL Server Management Studio 18,Power BI, MS Powerpoint </em><br>
-  <em>Data source: <a href="https://sg.finance.yahoo.com/topic/stocks/" target="_blank">Yahoo Finance</a></em>
+  <em>Data source: <a href="https://www.kaggle.com/avikasliwal/used-cars-price-prediction" target="_blank">Yahoo Finance</a></em>
 </p>
 
 ---  
