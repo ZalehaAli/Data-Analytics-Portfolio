@@ -6,7 +6,9 @@ The Capstone is an open project, wherein participants choose their own data, bra
 Advanced Analytics and Build a Machine Learning Model with Python, SQL and Power BI
 <iframe src="https://onedrive.live.com/embed?cid=17723187F2149456&resid=17723187F2149456%213043&authkey=AGtXFgaIbSwG1pY&em=2" width="100%" height="400px" frameborder="0" scrolling="no">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>
 <br>
-<a href="pdf/Stock Price_Master.pdf" target="_blank">View Python Program</a>
+<a href="pdf/Summative_Power BI.pdf" target="_blank">View Power BI (Audit Log Data) </a>
+<br>
+<a href="pdf/Python-Used_Car.pdf" target="_blank">View Python Program</a>
 ### Scope of Work -
 The main aim of the Summative Project is to enable students to apply and integrate what they have learnt and give them an opportunity to delve in greater depth, into one or more of the topics covered in the course:
 <br>
